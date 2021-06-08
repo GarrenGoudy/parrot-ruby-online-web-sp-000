@@ -11,5 +11,5 @@ def parrot(phrase)
   return "#{phrase}"
 end
 
-phrase = parrot
+phrase = "Pretty bird!"
 
