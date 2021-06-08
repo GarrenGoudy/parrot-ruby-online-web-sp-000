@@ -6,7 +6,7 @@ def squawk
   return "Squawk!"
 end
 
-def P phrase(phrase)
+def P (phrase)
   puts phrase
   return phrase
 end
