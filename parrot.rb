@@ -1,14 +1,10 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
 
-def squawk
-  puts "Squawk!"
-  return "Squawk!"
+def parrot
+  puts "Pretty bird!"
+  return "Pretty Bird!"
 end
 
-def P (phrase)
-  puts phrase
-  return phrase
-end
 
-phrase = "Pretty bird!"
+
