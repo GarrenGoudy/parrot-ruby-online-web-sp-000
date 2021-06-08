@@ -6,7 +6,7 @@ def parrot
   return parrot
 end
 
-def parrot(phrase)
+def parrot_phrase(phrase)
   puts "#{phrase}"
   return "#{phrase}"
 end
